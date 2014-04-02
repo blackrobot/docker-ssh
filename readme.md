@@ -3,8 +3,8 @@
 This is just a simple container which runs SSH. The only user by default
 is `root`, and the password is set to `root`.
 
-On the docker index: https://index.docker.io/u/damon/ssh
-On github: https://github.com/blackrobot/docker-ssh
+* https://index.docker.io/u/damon/ssh
+* https://github.com/blackrobot/docker-ssh
 
 ## To Run It
 
